@@ -931,18 +931,7 @@ vendor/lib64/libscalar.so|b7feb3266d5bccab8b26c49eea6ac8e295192f9a
 vendor/lib64/libsdm-diag.so|87373a043267b9b3bb923931a910119a9deb425f
 -vendor/lib64/libsdm-disp-vndapis.so|b1dede9efa81e8d0374343612ad7ad0d967e8e29
 vendor/lib64/libtinyxml2_1.so|56d4d5d0ea010f951de219c7b9fd2c9695a5b9d2
-
-<<<<<<< HEAD
-# Graphics (SDM) - from LA.UM.8.6.r1-02900-89xx.0
-vendor/lib/libsdm-color.so|fa3feba972c1076c3055367c969212df5e0e4a90
-vendor/lib/libsdmextension.so|ed08025c0bd11445f0a0489cfdca7831a2b8b478
-vendor/lib64/libsdm-color.so|335415c8f85a1e2e102667c24dffb166e7b08e75
-vendor/lib64/libsdmextension.so|6184043b163c502e3b89dbc216421f096a01d5b3
-
-# Graphics firmware - from Tissot PKQ1.180917.001.V10.0.17.0.PDHMIXM
-=======
 # Graphics firmware - from Daisy 10/QKQ1.191002.002/V11.0.5.0.QDLMIXM
->>>>>>> 503f9cc... mido: Update Graphics & Camera firmware from Daisy
 vendor/firmware/a506_zap.b00|c45a7b34456844f5deb73e2dce79cbfcfb9ae71c
 vendor/firmware/a506_zap.b01|374b5c4a2212b2636d5dfc2deda66b56b6bf2d03
 vendor/firmware/a506_zap.b02|b79957c47f0a6757ac1d721dbe06551508454634
