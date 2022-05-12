@@ -5,7 +5,7 @@ LOCAL_MODULE := RemovePackages
 LOCAL_SRC_FILES := false
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
-LOCAL_OVERRIDES_PACKAGES := MatLog Jelly ExactCalculator Eleven Etar Recorder Camera2 Gallery2
+LOCAL_OVERRIDES_PACKAGES := MatLog Jelly ExactCalculator Eleven Etar Recorder Gallery2
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
 include $(BUILD_PREBUILT)
