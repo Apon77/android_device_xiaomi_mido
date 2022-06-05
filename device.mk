@@ -357,6 +357,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     RemovePackages
 
+# Ram Booster
+PRODUCT_PACKAGES += \
+    RamBooster
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
